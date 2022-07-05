@@ -53,9 +53,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-<a href="https://mdasraf-portfolio.netlify.app" target="blank">
-<img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-portfolio-search-itim2101-flat-itim2101.png"/>
-</a>
   <a href="https://facebook.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
