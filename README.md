@@ -53,7 +53,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/md-asraf-16a869221/" target="blank">
